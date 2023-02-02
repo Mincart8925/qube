@@ -40,6 +40,18 @@ a {
     color: #ffffff;
 }
 
+code {
+    background-color: #484141;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    font-family: monospace;
+}
+
 nav {
     color: #ffffff;
     justify-content: space-between;
