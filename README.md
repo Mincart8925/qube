@@ -1,6 +1,6 @@
 # qube
 
-Qube is skin for [NEMO](https://github.com/sagestn/nemo) Project. <br />
+Qube is skin for [NEMO](https://github.com/libnare/nemo) Project. <br />
 > Dark is not metal.
 
 ### License of Font

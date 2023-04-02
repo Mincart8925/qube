@@ -1,8 +1,8 @@
 {
     "name": "Qube",
-    "author": "IfAcrylic",
+    "author": "Libnare",
     "summary": "Dark is not metal",
-    "repo" : "https://github.com/sagestn/qube",
+    "repo" : "https://github.com/libnare/qube",
     "paths": {
         "index": "/skin/pages/index.html",
         "post": "/skin/pages/post.html",
