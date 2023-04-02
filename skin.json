@@ -1,19 +1,19 @@
 {
-    "name": "Qube",
-    "author": "Libnare",
-    "summary": "Dark is not metal",
-    "repo" : "https://github.com/libnare/qube",
-    "paths": {
-        "index": "/skin/pages/index.html",
-        "post": "/skin/pages/post.html",
-        "about": "/skin/pages/about.html",
-        "header": "/skin/pages/header.html",
-        "footer": "/skin/pages/footer.html",
-        "nav": "/skin/pages/nav.html",
-        "tags": "/skin/pages/tags.html"
-    },
-    "config": {
-        "indexnum": 5,
-        "datetype": "2006. 01. 02."
-    }
+  "name": "Qube",
+  "author": "Libnare",
+  "summary": "Dark is not metal",
+  "repo": "https://github.com/libnare/qube",
+  "paths": {
+    "index": "/skin/pages/index.html",
+    "post": "/skin/pages/post.html",
+    "about": "/skin/pages/about.html",
+    "header": "/skin/pages/header.html",
+    "footer": "/skin/pages/footer.html",
+    "nav": "/skin/pages/nav.html",
+    "tags": "/skin/pages/tags.html"
+  },
+  "config": {
+    "indexnum": 5,
+    "datetype": "2006. 01. 02."
+  }
 }
