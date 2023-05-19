@@ -10,7 +10,7 @@
         {{range $val := .Indexs}}
         <li class="index-item">
             <div class="post-item">
-                <h3 class="post-link"><a href="page/{{$val.Path}}" class="post-link">{{$val.Title}}</a></h3>
+                <h3 class="post-link"><a href="{{$val.Path}}" class="post-link">{{$val.Title}}</a></h3>
                 <p class="index-timestamp">{{GetTimeStamp $val.Timestamp}}</p>
                 <q>{{$val.Summary}}</q>
             </div>
